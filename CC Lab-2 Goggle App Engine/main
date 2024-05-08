@@ -11,4 +11,4 @@ git clone https://github.com/anu2225/LP-2-CC-2.git
 then follow this commnond
 ls
 cd LP-2-CC-2
-Python CC-2.py
+python CC-2.py
