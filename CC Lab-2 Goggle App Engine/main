@@ -1,1 +1,14 @@
-
+https://console.cloud.google.com
+//Step For CC 2nd practical 
+Google app Engine 
+1) login google app engine
+2) click dashboard
+3) create new project 
+4) go to search box and type Admin API 
+5) then open api and enable this option 
+6) then open cloud shell and type git clone and github code directory 
+git clone https://github.com/anu2225/LP-2-CC-2.git
+then follow this commnond
+ls
+cd LP-2-CC-2
+Python CC-2.py
